@@ -8,6 +8,7 @@ export const Title = ({name,title}) => {
                 {name}<strong className="text-blue">{title}</strong>
             </h1>
         </div>
+        <div></div>
     </div>
   )
 }

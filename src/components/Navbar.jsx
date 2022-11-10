@@ -31,6 +31,7 @@ export default class Navbar extends Component {
             my cart
           </ButtonContainer>
         </Link>
+        <div></div>
       </NavWrapper>
     )
   }

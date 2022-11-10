@@ -18,6 +18,7 @@ function App() {
             <Route path='cart' caseSensitive={false} element={<Cart />} />
             <Route path='*' element={<Default />} />
           </Routes>
+          <div></div>
       </Router>
    </>
   );
